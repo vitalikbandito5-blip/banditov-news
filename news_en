@@ -1,7 +1,7 @@
-Update 4.0
+Update 4.1
 
-- Created a launcher
-- Updated the website
-- Moved to a new version
-- Added many mods
-- Read more information on the website and Telegram
+- Fixed authentication
+- Added automatic logout
+- Improved login and registration
+- Added backup connections
+- Read more on our website and Telegram
