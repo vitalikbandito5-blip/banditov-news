@@ -1,7 +1,6 @@
 Aktualizacja 4.1
 
-- Naprawiliśmy autoryzację
-- Dodaliśmy automatyczne wylogowanie
-- Ulepszyliśmy logowanie i rejestrację
-- Dodaliśmy połączenia zapasowe
+- Zaktualizowaliśmy system autoryzacji
+- Zaktualizowaliśmy system sesji
+- Stworzyliśmy zapasowy system logowania i rejestracji
 - Więcej informacji znajdziesz na stronie i w Telegramie
